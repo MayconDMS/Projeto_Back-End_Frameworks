@@ -1,5 +1,18 @@
 # Projeto_Back-End_Frameworks
 
+## Sumário
+
+- [Início](#projeto_back-end_frameworks)
+- [1. Sobre o Projeto](#1-sobre-o-projeto)
+- [2. Ambiente de Desenvolvimento](#2-ambiente-de-desenvolvimento)
+- [3. Front End](#3-front-end)
+- [4. Back End](#4-back-end)
+- [5. Arquitetura](#5-arquitetura)
+- [6. Branches — GitHub Flow](#6-branches----github-flow)
+- [7. Pull Requests](#7-pull-requests)
+- [8. Issues](#8-issues)
+- [9. Divisão de Tarefas](#9-divisao-de-tarefas)
+
 ## 1. Sobre o Projeto
 
 Projeto desenvolvido para a disciplina de **Back-end Frameworks**, ministrada pelo professor **Cloves Rocha**, no curso de **Sistemas de Informação da UNINASSAU Olinda**.
@@ -91,7 +104,7 @@ As Issues serão usadas para organizar:
 - problemas encontrados;
 - outras demandas relacionadas ao projeto.
 
-Se alguém encontrar um bug ou problema que ainda não esteja registrado, deve criar uma Issue com o máximo de detalhes úteis.
+Se alguém encontrar um bug ou problema que ainda esteja registrado, deve criar uma Issue com o máximo de detalhes úteis.
 
 Exemplo:
 
@@ -105,4 +118,4 @@ Informar arquivo, função, linha e comportamento observado ajuda os outros inte
 
 > **Façam o que quiserem, só avisem. E peçam ajuda se precisarem.**
 
-No início, não teremos uma divisão rígida de responsabilidades. Cada integrante pode contribuir na parte que quiser, mas deve avisar o grupo para evitar trabalho duplicado. Se travar em algum ponto, peça ajuda.
+No início, não teremos uma divisão rígida de responsabilidades. Cada integrante pode contribuir na parte que quiser, mas deve avisar o grupo para evitar trabalho duplicado. Se travar em algum[...]
