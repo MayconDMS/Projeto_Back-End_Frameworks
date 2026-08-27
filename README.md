@@ -116,6 +116,6 @@ Informar arquivo, função, linha e comportamento observado ajuda os outros inte
 
 ## 9. Divisão de Tarefas
 
-> **Façam o que quiserem, só avisem. E peçam ajuda se precisarem.**
+> **Façam o que quiserem, só avisem para evitar que duas pessoas trabalhem na mesma coisa. E peçam ajuda se precisarem.**
 
 No início, não teremos uma divisão rígida de responsabilidades. Cada integrante pode contribuir na parte que quiser, mas deve avisar o grupo para evitar trabalho duplicado. Se travar em algum[...]
