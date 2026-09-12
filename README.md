@@ -17,7 +17,9 @@
 
 Projeto desenvolvido para a disciplina de **Back-end Frameworks**, ministrada pelo professor **Cloves Rocha**, no curso de **Sistemas de Informação da UNINASSAU Olinda**.
 
-**Objetivo do sistema:** ERP voltado à gestão logística para empresas de varejo, com foco na integração dos processos de produtos, fornecedores, estoque, centros de distribuição, pedidos, expedição, transporte e entregas.
+#### 1.1. Sobre o Sistema
+
+ERP voltado à gestão logística para empresas de varejo, com foco na integração dos processos de produtos, fornecedores, estoque, centros de distribuição, pedidos, expedição, transporte e entregas.
 
 O sistema acompanha o ciclo do pedido desde o processamento até a entrega ao cliente, permitindo o controle das movimentações de estoque e o monitoramento do desempenho da operação logística por meio de indicadores e relatórios.
 
